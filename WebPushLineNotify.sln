@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPushLineNotify", "WebPushLineNotify\WebPushLineNotify.csproj", "{06260993-A6D9-43A5-869C-8EB82DBFA95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06260993-A6D9-43A5-869C-8EB82DBFA95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06260993-A6D9-43A5-869C-8EB82DBFA95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06260993-A6D9-43A5-869C-8EB82DBFA95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06260993-A6D9-43A5-869C-8EB82DBFA95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA66768-87D4-4796-B9C4-D0F6F62DA33F}
+	EndGlobalSection
+EndGlobal
